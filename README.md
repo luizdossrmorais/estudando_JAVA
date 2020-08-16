@@ -1,2 +1,2 @@
 # estudando_JAVA
- Estudos, e codigos fontes em JAVA
+ Estudos, e codigos fontes em JAVA.
